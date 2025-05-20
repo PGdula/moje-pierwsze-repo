@@ -8,4 +8,5 @@ To jest przykładowy opis projektu
 1. Sklonuj repozytorium
 1. Zainstaluj wymagane zależności
 1. Uruchom aplikację
+### Uwagi
 **Projekt jest cały czas rozwijany**
