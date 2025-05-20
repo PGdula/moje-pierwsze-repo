@@ -1,8 +1,8 @@
 # moje-pierwsze-repo
 To jest przykładowy opis projektu
 ## Funkcje
-*Łatwa instalacja
-*Prosta konfiguracja
+(*)Łatwa instalacja
+(*)Prosta konfiguracja
 *Wysoka wydajność
 ## Jak zacząć
 (1.)Sklonuj repozytorium
