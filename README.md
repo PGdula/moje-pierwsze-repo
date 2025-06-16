@@ -13,3 +13,7 @@ To jest przykładowy opis projektu
 ### Uwagi
 # trzeci wpis README
 **Projekt jest cały czas rozwijany**
+
+# ZMIANA NR 4
+
+# ZMIANA NR 5
