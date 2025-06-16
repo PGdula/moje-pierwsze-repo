@@ -1,3 +1,5 @@
+#KONFLIKT!
+
 # moje-pierwsze-repo
 To jest przykładowy opis projektu
 ## Funkcje
