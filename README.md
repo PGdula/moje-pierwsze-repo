@@ -9,4 +9,5 @@ To jest przykładowy opis projektu
 1. Zainstaluj wymagane zależności
 1. Uruchom aplikację
 ### Uwagi
+# trzeci wpis README
 **Projekt jest cały czas rozwijany**
